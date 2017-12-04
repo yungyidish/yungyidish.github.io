@@ -2079,7 +2079,7 @@ body {
 }
 .cid-qveGJS8d3x .price-figure {
   font-weight: 700;
-  color: #232323;
+  color: #073b4c;
 }
 .cid-qveGJS8d3x .price-value {
   font-weight: 700;
@@ -2091,10 +2091,10 @@ body {
   }
 }
 .cid-qveGJS8d3x .plan-title {
-  color: #4f4943;
+  color: #073b4c;
 }
 .cid-qveGJS8d3x .plan-title B {
-  color: #232323;
+  color: #073b4c;
 }
 .cid-qCE3yjT9j9 {
   padding-top: 90px;
@@ -2133,6 +2133,10 @@ body {
 }
 .cid-qvtYcUy1al .btn {
   margin: 0 0 .5rem 0;
+}
+.cid-qvtYcUy1al H2 {
+  text-align: right;
+  color: #073b4c;
 }
 .cid-quDVTUmpvd {
   padding-top: 120px;
